@@ -211,7 +211,7 @@ Footer: 335;
 			<p>So Nathu La is a historical mountain pass which was the part of the ancient silk route between China and India. During the Indo-China 1962 war it was closed and opened again during late Atal Bihari Vajyaee's reigh. It's now both a pass for vehicles to take goods between the two countries (apparently Parle G is one of the most desired Indian product in China) and also a place for tourists from India to come and see. Frankly there isn't much to see (except a sneak peek into China and some pretty hideous Chinese architecture) but the road-trip from Gangtok is beautiful. If you are traveling during tourist season make sure you go early and get a pass else you can be stuck in the traffic for a long time!</p>
 			<p>While you are going or coming back, make sure you stop at the gorgeous Tsomgo (or Changu) lake. Do take a walk around the lovely lake and enjoy the views. If you are going in winters, the whole area is covered in snow and the view is something to behold!</p>
 			<br>
-			<a href="videocontent/magic.php" class="btn btn-primary">Want to See Some Magic?</a>
+			<a href="learnmore1.php" class="btn btn-primary">Learn More?</a>
 
 		</div>
 		<div class="col-lg-6">
@@ -382,7 +382,7 @@ Footer: 335;
 					<h4 class="card-title">Biyani
 					</h4>
 					<p class="card-text">This biryani has mild fragrance, sticky rice, distinct taste of rice with hot and tangy flavour along with soft meat or vegetables. Use TasteMeter language to universally describe the unique taste of different biryanis.</p>
-					<a href="#" class="btn btn-outline-secondary">See Restaurants</a>
+					<a href="biryanirestaurents.php" class="btn btn-outline-secondary">See Restaurants</a>
 				</div>
 				</div>
 			</div>
@@ -408,7 +408,7 @@ Footer: 335;
 					<h4 class="card-title">Alur Dam
 					</h4>
 					<p class="card-text">Dum Aloo (also spelled as Dam Aloo) or Alu Dum (Hindi: दम आलू) is a potato based dish, it is a part of the traditional Kashmiri Pandit cuisine, from the Kashmir Valley, in the Indian state of Jammu and Kashmir.</p>
-					<a href="#" class="btn btn-outline-secondary">See Restaurants</a>
+					<a href="alurdamrestaurents.php" class="btn btn-outline-secondary">See Restaurants</a>
 				</div>
 				</div>
 			</div>
@@ -434,7 +434,7 @@ Footer: 335;
 					<h4 class="card-title">Momo (Dumplings)
 					</h4>
 					<p class="card-text">Momos, who doesn't love momos? Sikkim and Momos are complementary to one another. Sikkim is the place that is going to serve you the best momos you'll ever taste in your life. Believed to be of Tibetan origin and modulated by the Nepalese cuisine the momos are the lifeline of Sikkim.</p>
-					<a href="#" class="btn btn-outline-secondary">See Restaurants</a>
+					<a href="momodhabas.php" class="btn btn-outline-secondary">See Restaurants</a>
 				</div>
 				</div>
 			</div>
@@ -461,6 +461,7 @@ Footer: 335;
 			<p>And also in Shilliguri, you can find many agencies where you can book the hotel.</p>
 			<p>All of them are cheap and reliable</p>
 			<br>	
+			<a href="https://www.agoda.com" class="btn btn-outline-secondary">Book Now</a>
 		</div>
 
 		<div class="col-lg-6">
@@ -488,6 +489,9 @@ Footer: 335;
 				</div>
 			</div>
 		</div>
+
+
+
 	</div>
 
 		<hr class="my-4">
@@ -519,7 +523,7 @@ Footer: 335;
 			</ul> -->
 			
 			<br>
-			<a href="#" class="btn btn-primary">Learn More</a>
+			<a href="tipsfortrip.php" class="btn btn-primary">Learn More</a>
 
 		</div>
 		<div class="col-lg-6">
@@ -544,7 +548,7 @@ Footer: 335;
 			<br>
 			<p>The Yumthang Valley or Sikkim Valley of Flowers sanctuary, is a nature sanctuary with river, hot springs, yaks and grazing pasture on rolling meadows surrounded by the Himalayan mountains in the North Sikkim district of Sikkim state in India.</p>
 			<br>
-			<a href="#" class="btn btn-primary">Learn More</a>
+			<a href="flower.php" class="btn btn-primary">Learn More</a>
 
 		</div>
 		<div class="col-12">
@@ -657,11 +661,11 @@ Footer: 335;
 			<h2>Find Us</h2>
 		</div>
 		<div class="col-12 social padding">
-			<a href="facebook.com/nafizpervez"><i class="fab fa-facebook"></i></a>
-			<a href="#"><i class="fab fa-twitter"></i></a>
-			<a href="#"><i class="fab fa-google-plus-g"></i></a>
-			<a href="#"><i class="fab fa-instagram"></i></a>
-			<a href="#"><i class="fab fa-youtube"></i></a>
+			<a href="https://www.facebook.com"><i class="fab fa-facebook"></i></a>
+			<a href="https://twitter.com"><i class="fab fa-twitter"></i></a>
+			<a href="https://myaccount.google.com"><i class="fab fa-google-plus-g"></i></a>
+			<a href="https://www.instagram.com"><i class="fab fa-instagram"></i></a>
+			<a href="https://www.youtube.com"><i class="fab fa-youtube"></i></a>
 		</div>
 	</div>
 </div>
